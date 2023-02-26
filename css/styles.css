@@ -2017,7 +2017,7 @@ a:hover.back-to-top {
 	}
 
 	.tabs #tab-3 .icon-cards-area .card {
-		margin-right: 3.875rem;
+		margin-right: 2.875rem;
 	}
 	
 	.tabs #tab-3 .text-area {
@@ -2090,3 +2090,9 @@ a:hover.back-to-top {
 	/* end of extra pages */
 }
 /* end of min-width width 1200px */
+
+/* @media (min-width: 1200px)
+.tabs #tab-3 .icon-cards-area {
+    margin-top: 2rem;
+    margin-left: 11rem;
+} */
